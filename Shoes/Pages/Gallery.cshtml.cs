@@ -4,23 +4,22 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Shoes.Pages;
 
-public class PrivacyModel : PageModel
+public class GalleryModel : PageModel
 {
-    private readonly ILogger<PrivacyModel> _logger;
+    private readonly ILogger<GalleryModel> _logger;
 
-    public PrivacyModel(ILogger<PrivacyModel> logger)
+    public GalleryModel(ILogger<GalleryModel> logger)
     {
         _logger = logger;
     }
 
     public void OnGet()
     {
-        string title = "Privacy";
+        string title = "Gallery";
         ViewData["Title"] = title;
 
         string dateTime = DateTime.Now.ToString("d", new CultureInfo("en-US"));
         ViewData["TimeStamp"] = dateTime;
+
     }
 }
-
-
