@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets/Shoes.bundle.scp.css"
     },
     {
-      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/Grad.css",
-      "PackagePath": "staticwebassets/css/Grad.css"
-    },
-    {
       "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

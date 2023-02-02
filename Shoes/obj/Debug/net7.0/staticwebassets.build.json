@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Bik985WOAnyFqMcLBWXh2DB1JBoumay8K8PP077b8M=",
+  "Hash": "C/1CDh2jsVqX0e+m3qlZEx+TFq3mlx0CLu213vFvrLE=",
   "Source": "Shoes",
   "BasePath": "_content/Shoes",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/obj/Debug/net7.0/scopedcss/projectbundle/Shoes.bundle.scp.css"
-    },
-    {
-      "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/Grad.css",
-      "SourceId": "Shoes",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/",
-      "BasePath": "_content/Shoes",
-      "RelativePath": "css/Grad.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/Grad.css"
     },
     {
       "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/site.css",
