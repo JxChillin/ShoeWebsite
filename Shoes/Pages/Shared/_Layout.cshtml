@@ -7,8 +7,14 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Shoes.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Grad.css"/>
 </head>
 <body>
+    @*
+        -div class Grad here only makes the head color change
+        -editing "body" does change the color of the actual body text (why?)
+    *@
+    <div class ="Grad">
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
@@ -47,5 +53,6 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @await RenderSectionAsync("Scripts", required: false)
+    </div>
 </body>
 </html>
