@@ -28,14 +28,12 @@ body {
 }
 .handf {
     background-color: #343A40;
+
 }
 
 
 footer {
     text-align: center;
     vertical-align: top;
-
-}
-#footer p {
-    color: #000000;
+    color: #FFFFFF;
 }
