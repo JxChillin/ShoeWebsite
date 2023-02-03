@@ -28,12 +28,36 @@ body {
 }
 .handf {
     background-color: #343A40;
-
 }
 
+titles {
+    color: white;
+}
+right {
+    text-align: right;
+}
 
 footer {
     text-align: center;
     vertical-align: top;
     color: #FFFFFF;
+}
+
+nav {
+    justify-content: space-around;
+}
+
+a {
+    position: relative;
+    text-decoration: none;
+}
+
+a::after {
+    content: "";
+    /**/
+    display: block;
+    background-color: #000000;
+    height: 3px;
+    width: 100%;
+    bottom: 0px;
 }
