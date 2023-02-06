@@ -19,6 +19,7 @@ html {
 
 body {
     height: 100%;
+    color: black ;
 
 }
 
@@ -51,6 +52,7 @@ nav {
 a {
     position: relative;
     text-decoration: none;
+    color
 }
     
 
