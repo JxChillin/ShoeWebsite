@@ -71,3 +71,8 @@ a {
     a:hover::after {
         width: 100%;
     }
+
+
+div.blankspace {
+    padding: 50px;
+}

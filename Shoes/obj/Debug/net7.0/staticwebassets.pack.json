@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets/Shoes.bundle.scp.css"
     },
     {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/.DS_Store",
+      "PackagePath": "staticwebassets/Images/.DS_Store"
+    },
+    {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/airmag.jpg",
+      "PackagePath": "staticwebassets/Images/airmag.jpg"
+    },
+    {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/brazil.jpg",
+      "PackagePath": "staticwebassets/Images/brazil.jpg"
+    },
+    {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/Index.css",
+      "PackagePath": "staticwebassets/css/Index.css"
+    },
+    {
       "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
