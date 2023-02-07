@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets/Images/brazil.jpg"
     },
     {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/cactusplant.jpg",
+      "PackagePath": "staticwebassets/Images/cactusplant.jpg"
+    },
+    {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/mochalow.jpg",
+      "PackagePath": "staticwebassets/Images/mochalow.jpg"
+    },
+    {
       "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/Index.css",
       "PackagePath": "staticwebassets/css/Index.css"
     },

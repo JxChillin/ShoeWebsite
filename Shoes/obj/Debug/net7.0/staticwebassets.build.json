@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uTfVYb1+KPPgvnDL+AAJNpNn6+aFb+vCZ6ILRh/m7lM=",
+  "Hash": "iBugqW5wvvj0aZ+ypKA5qD/tGXVA7Mj/6Nbez21PMXE=",
   "Source": "Shoes",
   "BasePath": "_content/Shoes",
   "Mode": "Default",
@@ -168,6 +168,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/brazil.jpg"
+    },
+    {
+      "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/cactusplant.jpg",
+      "SourceId": "Shoes",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/",
+      "BasePath": "_content/Shoes",
+      "RelativePath": "Images/cactusplant.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/cactusplant.jpg"
+    },
+    {
+      "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/mochalow.jpg",
+      "SourceId": "Shoes",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/",
+      "BasePath": "_content/Shoes",
+      "RelativePath": "Images/mochalow.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/mochalow.jpg"
     },
     {
       "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/js/site.js",
