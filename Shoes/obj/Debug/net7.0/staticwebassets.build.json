@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iBugqW5wvvj0aZ+ypKA5qD/tGXVA7Mj/6Nbez21PMXE=",
+  "Hash": "dR9OJc3jPRVN5Il3ahd9k3HnjIW/pvuDU/9bZncGRak=",
   "Source": "Shoes",
   "BasePath": "_content/Shoes",
   "Mode": "Default",
@@ -151,23 +151,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/airmag.jpg"
-    },
-    {
-      "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/brazil.jpg",
-      "SourceId": "Shoes",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/",
-      "BasePath": "_content/Shoes",
-      "RelativePath": "Images/brazil.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/brazil.jpg"
     },
     {
       "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/cactusplant.jpg",

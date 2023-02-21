@@ -1,8 +1,12 @@
 ﻿@page
 @model GalleryModel  
 @{
+    var title = "Gallery";
+    var body = "This Page  will host the gallery of images.";
+    var construction = "Under construction as of";
+    var day = DateTime.Now;
 
 }
-<h1>@ViewData["Title"]</h1>
-
-<p>This page is under construction as of @ViewData["Timestamp"]</p>
+<h1>@title</h1>
+<p>@body</p>
+<p>@construction @day</p>

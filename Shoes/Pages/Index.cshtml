@@ -1,7 +1,16 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+
+    //Row One
+    var amgs = "Nike Air Mag";
+    var flea = "Cactus Plant Flea Maket Dunk low";
+    var mocha = "Reverse Mocha Jordan 1 Low";
+
+    //Row Two
+    var dunky = "Nike Dunk Chunky Dunky";
+    var shoe = "holder";
+    var shoe2 = "holder";
 }
 <head>
     <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
@@ -10,34 +19,41 @@
 <div class="text-center">
     <h1 class="display-4 text-white">Shoes R Us</h1>
 </div>
+<div class="blankspace">
+
+</div>
 <body>
-    @*<img src="~/Images/airmag.jpg" alt="Nike Air Mag" width="350" height="350" />*@
-
     <div class="row">
         <div class="column">
-            <img src="~/Images/airmag.jpg" alt="Nike Air Mag" style="width:100%">
+            <img src="~/Images/airmag.jpg" alt=@amgs style="width:100%" class="rcorners">
+            <p>@amgs</p>
         </div>
         <div class="column">
-            <img src="~/Images/cactusplant.jpg" alt="Cactus Plant Flea Market Dunk Low" style="width:100%">
+            <img src="~/Images/cactusplant.jpg" alt=@flea style="width:100%" class="rcorners">
+            <p>@flea </p>
         </div>
         <div class="column">
-            <img src="~/Images/mochalow.jpg" alt="Reverse Mocha Jordan 1 Low" style="width:100%">
+            <img src="~/Images/mochalow.jpg" alt=@mocha style="width:100%" class="rcorners">
+            <p>@mocha </p>
         </div>
     </div>
-
+    <div class="blankspace2">
+    </div>
+    <div class="row">
+        <div class="column">
+            <img src="~/Images/airmag.jpg" alt=@dunky style="width:100%" class="rcorners">
+            <p>@dunky</p>
+        </div>
+        <div class="column">
+            <img src="~/Images/cactusplant.jpg" alt="Cactus Plant Flea Market Dunk Low" style="width:100%" class="rcorners">
+            <p>@shoe</p>
+        </div>
+        <div class="column">
+            <img src="~/Images/mochalow.jpg" alt="Reverse Mocha Jordan 1 Low" style="width:100%" class="rcorners">
+            <p>@shoe2</p>
+        </div>
+    </div>
     <div class="blankspace">
-
-    </div>
-    <div class="row">
-        <div class="column">
-            <img src="~/Images/airmag.jpg" alt="Nike Air Mag" style="width:100%">
-        </div>
-        <div class="column">
-            <img src="~/Images/cactusplant.jpg" alt="Cactus Plant Flea Market Dunk Low" style="width:100%">
-        </div>
-        <div class="column">
-            <img src="~/Images/mochalow.jpg" alt="Reverse Mocha Jordan 1 Low" style="width:100%">
-        </div>
     </div>
 </body>
 

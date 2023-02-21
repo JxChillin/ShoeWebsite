@@ -1,5 +1,4 @@
-﻿using System.Globalization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Shoes.Pages;
@@ -15,11 +14,6 @@ public class GalleryModel : PageModel
 
     public void OnGet()
     {
-        string title = "Gallery";
-        ViewData["Title"] = title;
-
-        string dateTime = DateTime.Now.ToString("d", new CultureInfo("en-US"));
-        ViewData["TimeStamp"] = dateTime;
 
     }
 }

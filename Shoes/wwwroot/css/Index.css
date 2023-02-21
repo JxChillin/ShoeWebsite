@@ -10,3 +10,12 @@
     clear: both;
     display: table;
 }
+
+p {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.rcorners {
+    border-radius: 50px;
+}

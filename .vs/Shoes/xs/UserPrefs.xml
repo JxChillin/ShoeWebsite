@@ -1,4 +1,46 @@
 ﻿<Properties StartupConfiguration="{0AAC9090-B04C-49AB-A0CA-4C4C0B01E2D3}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shoes/Pages/Index.cshtml">
+    <Files>
+      <File FileName="Shoes/wwwroot/css/site.css" />
+      <File FileName="Shoes/wwwroot/css/Index.css" />
+      <File FileName="Shoes/Pages/Shared/_Layout.cshtml" />
+      <File FileName="Shoes/Pages/Index.cshtml" Line="37" Column="57" />
+      <File FileName="Shoes/Pages/Gallery.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shoes" expanded="True">
+            <Node name="Shoes" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Error.cshtml" expanded="True" />
+                <Node name="Gallery.cshtml" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                  <Node name="jquery" expanded="True" />
+                  <Node name="jquery-validation" expanded="True" />
+                  <Node name="jquery-validation-unobtrusive" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Shoes PreferredExecutionTarget="/Applications/Firefox.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Shoes FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
