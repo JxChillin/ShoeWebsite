@@ -19,3 +19,7 @@ p {
 .rcorners {
     border-radius: 50px;
 }
+
+.img {
+    width: 1024px, height: 1024px
+}

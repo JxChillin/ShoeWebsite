@@ -21,8 +21,20 @@
       "PackagePath": "staticwebassets/Images/cactusplant.jpg"
     },
     {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/dunky.jpg",
+      "PackagePath": "staticwebassets/Images/dunky.jpg"
+    },
+    {
       "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/mochalow.jpg",
       "PackagePath": "staticwebassets/Images/mochalow.jpg"
+    },
+    {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/presto.jpg",
+      "PackagePath": "staticwebassets/Images/presto.jpg"
+    },
+    {
+      "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/ps.jpg",
+      "PackagePath": "staticwebassets/Images/ps.jpg"
     },
     {
       "Id": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/css/Index.css",

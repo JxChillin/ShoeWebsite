@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dR9OJc3jPRVN5Il3ahd9k3HnjIW/pvuDU/9bZncGRak=",
+  "Hash": "EtqH13ETU8pPQVbr9nqgo0UO6omDNWE6Ub5PvXczPW0=",
   "Source": "Shoes",
   "BasePath": "_content/Shoes",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot/Images/cactusplant.jpg"
     },
     {
+      "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/dunky.jpg",
+      "SourceId": "Shoes",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/",
+      "BasePath": "_content/Shoes",
+      "RelativePath": "Images/dunky.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/dunky.jpg"
+    },
+    {
       "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/mochalow.jpg",
       "SourceId": "Shoes",
       "SourceType": "Discovered",
@@ -185,6 +202,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/mochalow.jpg"
+    },
+    {
+      "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/presto.jpg",
+      "SourceId": "Shoes",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/",
+      "BasePath": "_content/Shoes",
+      "RelativePath": "Images/presto.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/presto.jpg"
+    },
+    {
+      "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/Images/ps.jpg",
+      "SourceId": "Shoes",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/",
+      "BasePath": "_content/Shoes",
+      "RelativePath": "Images/ps.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/ps.jpg"
     },
     {
       "Identity": "/Users/jaylen/Documents/Web Dev/Shoes/Shoes/wwwroot/js/site.js",
