@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{0AAC9090-B04C-49AB-A0CA-4C4C0B01E2D3}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shoes/Pages/Index.cshtml">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Shoes PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shoes/wwwroot/css/site.css">
     <Files>
-      <File FileName="Shoes/wwwroot/css/site.css" />
+      <File FileName="Shoes/wwwroot/css/site.css" Line="59" Column="5" />
       <File FileName="Shoes/wwwroot/css/Index.css" />
       <File FileName="Shoes/Pages/Shared/_Layout.cshtml" />
-      <File FileName="Shoes/Pages/Index.cshtml" Line="37" Column="57" />
       <File FileName="Shoes/Pages/Gallery.cshtml" />
+      <File FileName="Shoes/Pages/Index.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -36,11 +43,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Shoes PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
